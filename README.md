@@ -10,6 +10,6 @@ This insights highlighting the key metrics like sales region, sales by Gender & 
 
 
 ## DASHBOARD
-![](image_link)
+![]([image_link](https://github.com/UmeshSubhedar/Sales_Insight_Excel_Project/blob/main/Excel_Dashboard.PNG))
 
 
